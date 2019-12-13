@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "thinkjsDemo",
+    "script": "production.js",
+    "cwd": "D:\express\thinkJs\thinkJs\thinkjsDemo",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
