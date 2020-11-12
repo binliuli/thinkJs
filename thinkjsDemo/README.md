@@ -4,7 +4,7 @@ Application created by [ThinkJS](http://www.thinkjs.org)
 ## Install dependencies
 
 ```
-npm install
+npm install 9999
 ```
 
 ## Start server
